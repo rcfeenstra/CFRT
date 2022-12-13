@@ -1,0 +1,18 @@
+% WARNING: This file may contain UTF-8 (unicode) characters.
+% While non-8-bit characters are officially unsupported in BibTeX, you
+% can use them with the biber backend of biblatex
+%    usepackage[backend=biber]{biblatex}
+
+@techreport{NBERw21768,
+ title = "Tariff Reductions, Entry, and Welfare: Theory and Evidence for the Last Two Decades",
+ author = "Caliendo, Lorenzo and Feenstra, Robert C and Romalis, John and Taylor, Alan M",
+ institution = "National Bureau of Economic Research",
+ type = "Working Paper",
+ series = "Working Paper Series",
+ number = "21768",
+ year = "2015",
+ month = "December",
+ doi = {10.3386/w21768},
+ URL = "http://www.nber.org/papers/w21768",
+ abstract = {We show in a multi-sector, heterogeneous-firm trade model that the effect of tariffs on entry, especially in the presence of production linkages, can reverse the traditional positive optimal tariff argument. We then use a new tariff dataset, and apply it to a 189-country, 15-sector version of our model, to quantify the trade, entry, and welfare effects of trade liberalization over the period 1990–2010. We find that the impact on firm entry was larger in Advanced relative to Emerging and Developing countries; that slightly more than three-quarters of the total gains from trade are a consequence of the reductions in MFN tariffs (the Uruguay Round), with two-thirds of the remainder due to preferential trade agreements and one third due to the hypothetical movement to free trade; and that free trade would bring gains for some Emerging and Developing countries, in particular. Ten economies in our sample – including China, Hong Kong, India, Israel, Vietnam, and five more remote countries – would have benefited from going beyond free trade to subsidizing their imports in 1990, since their optimal tariffs are negative.},
+}
