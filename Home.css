@@ -1,5 +1,5 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 629px;
+  min-height: 703px;
 }
 
 .u-section-1 .u-text-1 {
@@ -33,10 +33,15 @@
 }
 
 .u-section-1 .u-text-4 {
-  margin: 20px 0;
+  margin: 20px 0 60px;
 }
 
 .u-section-1 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-4 {
   background-image: none;
   padding: 0;
 }
