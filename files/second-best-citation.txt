@@ -1,0 +1,11 @@
+Lorenzo Caliendo, Robert C. Feenstra, John Romalis, Alan M. Taylor,
+A second-best argument for low optimal tariffs on intermediate inputs,
+Journal of International Economics,
+Volume 145,
+2023,
+103824,
+ISSN 0022-1996,
+https://doi.org/10.1016/j.jinteco.2023.103824.
+(https://www.sciencedirect.com/science/article/pii/S0022199623001101)
+Abstract: We derive a new formula for the optimal uniform tariff in a small-country, heterogeneous-firm model with roundabout production and a nontraded good. Tariffs are applied on imported intermediate inputs. First-best policy requires that markups on domestic intermediate inputs are offset by subsidies. In a second-best setting where such subsidies are not used, roundabout production and the monopoly distortion in the traded sector create strong incentives to lower the optimal tariff on imported inputs. In a quantitative version of our two-sector small open economy, we find that the optimal tariff is lowered under nearly all parameter values considered, and can be negative.
+Keywords: Trade policy; Monopolistic competition; Gains from trade; Input–output linkages

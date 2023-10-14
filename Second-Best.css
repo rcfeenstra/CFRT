@@ -20,6 +20,11 @@
   padding: 0;
 }
 
+.u-section-1 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     --animation-custom_in-translate_x: 0px;
